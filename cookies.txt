@@ -1,5 +1,0 @@
-# HTTrack Website Copier Cookie File
-# This file format is compatible with Netscape cookies
-www.ualberta.ca	TRUE	/	FALSE	1999999999	ualberta#lang	en
-www.ualberta.ca	TRUE	/	FALSE	1999999999	AWSALB	midZlMe0nGeG7TB6G2BwziViw6qtbtX/tR+MfQQhxCIwF/oaT4tPukZjEVkVPEQGQQclTiDdGgK1IkS0N63lEGGbctF3bJ+tTtNuIg9Gv/BAjrqwAE/ea35lBch4
-
